@@ -1,4 +1,4 @@
-Hi, I’m Aphiwe Ntshingila.<br/>
+Hi, I’m devNtshingila.<br/>
 A 19-year-old IT student with a growing passion for software engineering and web development.<br/>
 I’m currently wrapping up my undergrad in IT and always looking for new ways to learn, build, and collaborate.<br/>
 Whether I’m debugging code or hitting the gym, I bring energy and focus to whatever I’m doing.<br/>

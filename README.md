@@ -41,5 +41,4 @@ I’m always open to:
 - Collaborating on innovative projects
 - Learning from fellow developers
 - Building cool (and useful) projects
-- 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -35,9 +35,7 @@ I work with technologies like:
 [![](https://visitcount.itsvg.in/api?id=dev.Ntshingila&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 🌱 Let’s Collaborate
-
 I’m always open to:
-
 - Collaborating on innovative projects
 - Learning from fellow developers
 - Building cool (and useful) projects

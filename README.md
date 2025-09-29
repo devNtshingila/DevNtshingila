@@ -49,8 +49,8 @@ I build and maintain **professional websites for growing businesses** at an acce
 
 I document my coding journey, project builds, and lessons learned on my YouTube channel. It's a live logbook of my growth as a developer.
 
-[![YouTube](https://img.shields.io/badge/YouTube-@dev.nkosii-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@dev.nkosii)
-[![Instagram](https://img.shields.io/badge/Instagram-@nkosiii_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nkosiii_)
+[![YouTube](https://img.shields.io/badge/YouTube-@dev.nkosii-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]
+[![Instagram](https://img.shields.io/badge/Instagram-@nkosiii_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
 
 ---
 
@@ -140,8 +140,8 @@ I document my coding journey, project builds, and lessons learned on my YouTube 
 Ready to start your project? Let's talk!
 
 **📧 Email:** dev.nkosi@gmail.com  
-**📱 Portfolio:** [Your Portfolio Link]  
-**💼 LinkedIn:** [Your LinkedIn Profile]
+**📱 Portfolio:** https://github.com/devNtshingila 
+**💼 LinkedIn:** https://www.linkedin.com/in/aphiwentshingila/
 
 ---
 

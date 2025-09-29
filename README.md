@@ -2,23 +2,6 @@
 
 A passionate **19-year-old web developer and IT student** building my future, one line of code at a time. I specialize in creating affordable, modern, and effective web solutions for businesses. I believe in solving real-world problems through clean, efficient code and am constantly honing my craft through hands-on projects.
 
----
-
-### 🚀 What I Do
-
-I build and maintain **professional websites for growing businesses** at an accessible price.
-
-**My All-Inclusive Web Package: R3000/year**
-- ✅ **Custom Design & Development:** Tailored to your brand.
-- ✅ **Hosting & Domain Setup:** I handle the technical setup.
-- ✅ **Ongoing Maintenance & Security:** Your site stays safe and up-to-date.
-- ✅ **Fully Responsive:** Looks great on all devices.
-- ✅ **SEO-Friendly:** Built to be found on Google.
-
-> 💡 **Ideal for startups, freelancers, and small businesses.** Let's get your idea online!
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 **💻 Frontend & Markup**

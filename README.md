@@ -1,42 +1,74 @@
-### Hi, I'm devNtshingila 👋
+# 👋 Hi, I'm Nkosii (devNtshingila)
 
-A passionate and driven **19-year-old IT student** specializing in software engineering and web development. I’m currently completing my undergraduate degree in IT and continuously sharpening my skills through hands-on projects and real-world applications.
-
-I thrive on **solving real-world problems** through clean, efficient code and building digital solutions that make a meaningful impact.
-
-### 🔥 What I’m Up To
-
-- 💻 **Coding, coding, and more coding!** I’m constantly exploring new languages, frameworks, and tools.
-- 🛠️ **Building projects** – from web apps to automation scripts – to practice and improve my craft.
-- 🎥 Maintaining a **digital logbook on [YouTube](https://www.youtube.com/@dev.nkosii)** where I share my work & progress.
-- 🌐 Offering **affordable web solutions** for upcoming businesses – **R3000/year** with maintenance and security included.
-
-### 💼 Services I Offer
-
-I build modern, responsive, and secure websites tailored for growing businesses. My package includes:
-
-- Custom website design & development
-- Hosting setup
-- **Ongoing maintenance & security updates**
-- SEO-friendly structure
-- Mobile-responsive design
-
-Priced at **R3000/year** – so you can focus on your business, not your website.
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nkosiii_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dev.nkosii) 
-
-# 💻 Tech Stack:
-I work with technologies like:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+A passionate **19-year-old web developer and IT student** building my future, one line of code at a time. I specialize in creating affordable, modern, and effective web solutions for businesses. I believe in solving real-world problems through clean, efficient code and am constantly honing my craft through hands-on projects.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dev.Ntshingila&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🌱 Let’s Collaborate
-I’m always open to:
-- Collaborating on innovative projects
-- Learning from fellow developers
-- Building cool (and useful) projects
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 What I Do
+
+I build and maintain **professional websites for growing businesses** at an accessible price.
+
+**My All-Inclusive Web Package: R3000/year**
+- ✅ **Custom Design & Development:** Tailored to your brand.
+- ✅ **Hosting & Domain Setup:** I handle the technical setup.
+- ✅ **Ongoing Maintenance & Security:** Your site stays safe and up-to-date.
+- ✅ **Fully Responsive:** Looks great on all devices.
+- ✅ **SEO-Friendly:** Built to be found on Google.
+
+> 💡 **Ideal for startups, freelancers, and small businesses.** Let's get your idea online!
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**💻 Frontend & Markup**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**⚙️ Backend & Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+**☁️ Platforms & DevOps**
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+**🎨 Design & Prototyping**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+
+---
+
+### 📈 My Digital Journey
+
+I document my coding journey, project builds, and lessons learned on my YouTube channel. It's a live logbook of my growth as a developer.
+
+[![YouTube](https://img.shields.io/badge/YouTube-@dev.nkosii-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@dev.nkosii)
+[![Instagram](https://img.shields.io/badge/Instagram-@nkosiii_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nkosiii_)
+
+---
+
+### 📊 GitHub Stats
+
+![](https://visitcount.itsvg.in/api?id=devNtshingila&icon=0&color=6)
+<!-- Consider adding a stats card later: https://github.com/anuraghazra/github-readme-stats -->
+
+---
+
+### 💼 Let's Build Something Amazing
+
+I'm always open to:
+- **Collaborating** on innovative web projects.
+- **New opportunities** and freelance work.
+- **Connecting** with fellow developers and entrepreneurs.
+
+**Reach out to me on socials or create an issue on this repo to get the conversation started!**
+
+---
+*Proudly crafted by Nkosii. Keep building.*

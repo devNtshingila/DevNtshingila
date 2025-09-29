@@ -54,10 +54,114 @@ I document my coding journey, project builds, and lessons learned on my YouTube 
 
 ---
 
-### 📊 GitHub Stats
+# 💼 **Web Development Services**
 
-![](https://visitcount.itsvg.in/api?id=devNtshingila&icon=0&color=6)
-<!-- Consider adding a stats card later: https://github.com/anuraghazra/github-readme-stats -->
+## 🎯 **Website Packages** *(Monthly Plans)*
+*All packages include hosting, maintenance, and support*
+
+### **🌱 ROOT** - R450/month
+**The Essentials Package**
+- 5-page custom website (Home, About, Services, Contact, Blog)
+- FREE .co.za domain name (1st year)
+- Mobile-friendly design
+- Basic contact form
+- Social media integration
+- Basic SEO setup
+- 2 hours monthly maintenance
+- Email support
+
+### **🚀 MOMENTUM** - R750/month  
+**The Business Package**
+- 10-page custom website
+- FREE .co.za domain name (1st year)
+- Professional email setup (1 account)
+- Advanced SEO + Google Analytics
+- Booking/appointment system
+- Portfolio/gallery section
+- 3 hours monthly maintenance
+- Priority support (48hr response)
+
+### **🏆 VISION** - R1,500/month
+**The Flex Package**
+- Unlimited pages
+- FREE .co.za domain name (1st year)
+- Professional email (5 accounts)
+- E-commerce store (up to 50 products)
+- Membership/login system
+- Advanced security features
+- 5 hours monthly maintenance
+- 24/7 priority support
+
+---
+
+## 💰 **Annual Plans (Better Value!)**
+
+| Package | Monthly | Yearly | You Save |
+|---------|---------|--------|----------|
+| **ROOT** | R450 | R4,800 | **R600** |
+| **MOMENTUM** | R750 | R8,400 | **R600** |
+| **VISION** | R1,500 | R16,800 | **R1,200** |
+
+**🎁 Annual Plan Benefits:**
+- FREE Domain Name (worth R150/year)
+- FREE SSL Certificate (worth R400/year)
+- 1st Month FREE compared to monthly
+- Priority Technical Support
+- Money-Back Guarantee (30 days)
+
+---
+
+## 🔧 **Add-On Services**
+
+### **Website Enhancements**
+- **Extra Pages**: R300/page
+- **E-commerce Setup**: R2,500 once-off
+- **Logo Design**: R800
+- **Social Media Setup**: R600
+
+### **Digital Marketing**
+- **Google Business Profile**: R400
+- **Social Media Marketing**: R1,500/month
+  *Includes 8 posts, engagement, and performance tracking*
+
+---
+
+## 📝 **How It Works**
+1. **Free Consultation** - Discuss your project needs
+2. **Choose Package** - Select the perfect plan for your business
+3. **50% Deposit** - Secure your project start date
+4. **Development** - Regular updates and feedback sessions
+5. **Launch** - Final payment and go live!
+6. **Ongoing Support** - Continuous maintenance and updates
+
+---
+
+## 💬 **Get In Touch**
+Ready to start your project? Let's talk!
+
+**📧 Email:** dev.nkosi@gmail.com  
+**📱 Portfolio:** [Your Portfolio Link]  
+**💼 LinkedIn:** [Your LinkedIn Profile]
+
+---
+
+## ❓ **Frequently Asked Questions**
+
+**Q: What's included in the setup?**  
+A: Custom design, development, hosting setup, and basic configuration.
+
+**Q: Can I upgrade my package later?**  
+A: Yes! You can upgrade anytime with prorated pricing.
+
+**Q: Who owns the website?**  
+A: You retain full ownership of all design and content.
+
+**Q: What about content writing?**  
+A: I can work with your existing content or recommend copywriters.
+
+---
+
+*All prices in South African Rands (ZAR) inclusive of VAT. Terms and conditions apply.*
 
 ---
 
@@ -68,7 +172,7 @@ I'm always open to:
 - **New opportunities** and freelance work.
 - **Connecting** with fellow developers and entrepreneurs.
 
-**Reach out to me on socials or create an issue on this repo to get the conversation started!**
+**Reach out to me on socials or send an email**
 
 ---
 *Proudly crafted by Nkosii. Keep building.*

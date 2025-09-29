@@ -96,8 +96,10 @@ A passionate **19-year-old web developer and IT student** building my future, on
 ## 💬 **Get In Touch**
 Ready to start your project? Let's talk!
 
-**📧 Email:** dev.nkosi@gmail.com  
-**📱 Portfolio:** https://github.com/devNtshingila 
+**📧 Email:** dev.nkosi@gmail.com
+<br>
+**📱 Portfolio:** https://github.com/devNtshingila
+<br>
 **💼 LinkedIn:** https://www.linkedin.com/in/aphiwentshingila/
 
 ---

@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nkosii (devNtshingila)
+# 👋 Hi, I'm Dev.Ntshingila
 
 A passionate **20-year-old web developer and IT student** building my future, one line of code at a time. I specialize in creating affordable, modern, and effective web solutions for businesses. I believe in solving real-world problems through clean, efficient code and am constantly honing my craft through hands-on projects.
 
